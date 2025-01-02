@@ -1,4 +1,4 @@
-# demoGit
+cd# demoGit
 my first demo  git repository
 <br>
-Author SS
+Author SS (samreen)
